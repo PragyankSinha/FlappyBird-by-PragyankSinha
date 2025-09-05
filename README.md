@@ -1,6 +1,6 @@
 # Flappy Bird in Unreal Engine 5
 
-![image](#) <!-- Placeholder for project cover screenshot -->
+<img width="655" height="1172" alt="image" src="https://github.com/user-attachments/assets/63a278d3-c0bf-461d-8fdb-2b1680c8840e" />
 
 ## Overview
 This project is a beginner-friendly recreation of the popular *Flappy Bird* game using **Unreal Engine 5 (UE5)**.  
