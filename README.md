@@ -29,9 +29,7 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 • Installed **Unreal Engine 5** from Epic Games Launcher.  
 • Created a new **Blank Blueprint Project**.  
 • Configured project folders for assets, blueprints, and UI.  
-• Set default map and game mode.  
-
-![image](#) <!-- Placeholder for setup screenshot -->
+• Set default map and game mode.
 
 ---
 
@@ -42,7 +40,8 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 • Added physics and gravity simulation.  
 • Implemented jump/flap mechanic with spacebar or tap input.  
 
-![image](#) <!-- Placeholder for bird setup screenshot -->
+<img width="1527" height="560" alt="image" src="https://github.com/user-attachments/assets/9b669bde-d0b7-423b-bc63-b99e776a2222" />
+
 
 ---
 
@@ -52,7 +51,8 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 • Randomized pipe gaps for variation.  
 • Added collision detection to handle game-over states.  
 
-![image](#) <!-- Placeholder for pipes screenshot -->
+<img width="307" height="748" alt="image" src="https://github.com/user-attachments/assets/269d1964-c231-4508-bad3-fcc6d5ab6fcf" />
+
 
 ---
 
@@ -61,7 +61,8 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 • Added UI widget to display score in real time.  
 • Created game-over screen with restart option.  
 
-![image](#) <!-- Placeholder for scoring screenshot -->
+<img width="643" height="1169" alt="image" src="https://github.com/user-attachments/assets/2712826b-33ff-4496-a1f5-5e3a9a346933" />
+
 
 ---
 
@@ -70,7 +71,8 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 • Set game resolution and screen aspect ratio.  
 • Packaged game files for distribution.  
 
-![image](#) <!-- Placeholder for packaging screenshot -->
+<img width="2269" height="1119" alt="image" src="https://github.com/user-attachments/assets/e8ebbf9e-76b2-43d2-9b6c-540e991897b3" />
+
 
 ---
 
@@ -96,10 +98,12 @@ The goal of this project is to replicate this gameplay in UE5 to understand:
 (Add screenshots here after development)  
 
 • Game Start Screen  
-![image](#)  
+<img width="655" height="1172" alt="image" src="https://github.com/user-attachments/assets/63a278d3-c0bf-461d-8fdb-2b1680c8840e" />  
 
 • Gameplay with pipes and score  
-![image](#)  
+<img width="658" height="1183" alt="image" src="https://github.com/user-attachments/assets/eb490e43-390c-4a1c-b1a1-991ef422e518" />
+ 
 
 • Game Over Screen  
-![image](#)  
+<img width="658" height="1183" alt="image" src="https://github.com/user-attachments/assets/bbd74c9f-f117-4ee9-97ba-402bbbd3c7f0" />
+
